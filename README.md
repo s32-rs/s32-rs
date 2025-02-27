@@ -25,8 +25,8 @@ Unless you explicitly state otherwise, any contribution intentionally submitted
 for inclusion in the work by you, as defined in the Apache-2.0 license, shall be
 dual licensed as above, without any additional terms or conditions.
 
-# Sponsored by
+## Sponsored by
 
 <a href="https://umi.engineering/">
-![UMI](https://umi.engineering/cdn/shop/files/logo-rounded.png)
+    <img width="100px" src="https://umi.engineering/cdn/shop/files/logo-rounded.png" />
 </a>

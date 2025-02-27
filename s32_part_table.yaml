@@ -1,0 +1,58 @@
+s32k1:
+  s32k142:
+    url: https://www.nxp.com/products/S32K1
+    rm: "S32K1XXRM"
+    rm_title: "S32K1xx MCU Family - Reference Manual"
+    rm_url: "https://www.nxp.com/webapp/Download?colCode=S32K1XXRM"
+    members:
+      - S32K142xA
+      - S32K142xF
+      - S32K142xI
+  s32k142w:
+    url: https://www.nxp.com/products/S32K1
+    rm: "S32K1XXRM"
+    rm_title: "S32K1xx MCU Family - Reference Manual"
+    rm_url: "https://www.nxp.com/webapp/Download?colCode=S32K1XXRM"
+    members:
+      - S32K142WA
+      - S32K142WF
+  s32k144:
+    url: https://www.nxp.com/products/S32K1
+    rm: "S32K1XXRM"
+    rm_title: "S32K1xx MCU Family - Reference Manual"
+    rm_url: "https://www.nxp.com/webapp/Download?colCode=S32K1XXRM"
+    members:
+      - S32K144xA
+      - S32K144xF
+      - S32K144xI
+      - S32K144xL
+  s32k144w:
+    url: https://www.nxp.com/products/S32K1
+    rm: "S32K1XXRM"
+    rm_title: "S32K1xx MCU Family - Reference Manual"
+    rm_url: "https://www.nxp.com/webapp/Download?colCode=S32K1XXRM"
+    members:
+      - S32K144WA
+      - S32K144WF
+  s32k146:
+    url: https://www.nxp.com/products/S32K1
+    rm: "S32K1XXRM"
+    rm_title: "S32K1xx MCU Family - Reference Manual"
+    rm_url: "https://www.nxp.com/webapp/Download?colCode=S32K1XXRM"
+    members:
+      - S32K146xA
+      - S32K146xF
+      - S32K146xI
+      - S32K146xL
+  s32k148:
+    url: https://www.nxp.com/products/S32K1
+    rm: "S32K1XXRM"
+    rm_title: "S32K1xx MCU Family - Reference Manual"
+    rm_url: "https://www.nxp.com/webapp/Download?colCode=S32K1XXRM"
+    members:
+      - S32K148xA
+      - S32K148xF
+      - S32K148xE
+      - S32K148xJ
+      - S32K148xI
+      - S32K148xG

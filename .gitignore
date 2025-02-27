@@ -1,0 +1,14 @@
+**/__pycache__/
+**/target/
+**/*.rs.bk
+**/Cargo.lock
+.deps/
+html/
+mmaps/
+settings/
+svdconv/
+/venv
+**.svd.patched
+
+# automatically generated crates
+/s32*/
